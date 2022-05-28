@@ -1,8 +1,8 @@
-#WELCOME TO MY GITTRAINING
+#Welcome to my training
 
-HELLO
+Hello
 
-##PART1 : SUB TOPIC
+##Part1 : sub topic
 
-THIS IS SECOND LINE
+This is second line
 
